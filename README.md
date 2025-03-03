@@ -1,5 +1,8 @@
 # Hello world!
 
-1. session 3
-2. learning about git and github
-3. GSOC 2025 - KD
+session 3
+learning about git and github
+More content!
+Doing pulling request - Ria
+Hi Seerat this side. I have added this line
+K Dixit GSOC 2025
