@@ -1,8 +1,8 @@
 # Hello world!
 
-session 3
-learning about git and github
-More content!
-Doing pulling request - Ria
-Hi Seerat this side. I have added this line
-K Dixit GSOC 2025
+1. session 3
+2. learning about git and github
+3. More Content!
+4. Doing pull request - Ria
+5. Hi Seerat this side. I have added this line
+6. K Dixit GSOC 2025
